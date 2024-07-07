@@ -48,7 +48,6 @@ La estructura del proyecto se organiza en varios paquetes, alineados con los pri
     utils: Proporciona utilidades como el catálogo de errores.
 
 Esta API permite realizar operaciones con los clientes de manera eficiente y organizada, facilitando la integración y la mantenibilidad del código.
-## Arquitectura
 
 ## Arquitectura
 
